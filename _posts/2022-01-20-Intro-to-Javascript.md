@@ -143,13 +143,13 @@ Used when nothing is assigned to a variable.
 
 ### Else If
 
-> if (name === "Billy"){
->    alert("Hi Billy");
->} else if (name === "Suzy") {
->    alert("hi Suzy!");
->} else {
->    alert("I don't know you");
->}
+                `if (name === "Billy"){
+                    alert("Hi Billy");
+                    } else if (name === "Suzy") {
+                        alert("hi Suzy!");
+                    } else {
+                        alert("I don't know you");
+                    }`
 
 These kind of conditionals allow you to add all kinds of specific circumstances depending on input!
 
