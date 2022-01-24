@@ -7,6 +7,18 @@ subtitle: What you need to know!
 
 ## Hi I'm Matt Costa
 
-I got into computers around the time after I walked away from the video production industry. Repairing and flipping "broken computers" was hobby that kind of turned into a career for me.
+After spending a few years in the video production industry, I decided to make a move into web development. As both my values, and my experience being out in the real world taught me much.
 
-I have been building websites with Wordpress for over 7 years, and I plan to master the Python programming language. Data science is fascinating to me, and being able to use computers to meticulously measure data as fast as possible is cool and I look forward to learning the process!
+## My Mission
+
+My goal is to become a clever JavaScript and Python developer. And hopefully by gaining enough skill in those languages, I may be able to transition better in languages like Java, Rust, Objective-C, etc.
+
+## Hobbies
+
+- ***Gaming***: Gaming with my friends has been an integral part of my social life. And a part of my interest in programming has stemmed from my experiences with soft mods of classic video games like Doom and Quake.
+
+- ***Movies***: I enjoy an incredibly wide range of films. From classic seventies kung fu, to the silent comedies of the 1920s. Before I decided to become a developer, I had a passion for filmmaking.
+
+- ***Beer***: I'm a bit of a connoisseur when it comes to local craft brews. Particularly lagers, but I am pretty much open to try anything once. Domestic brews usually don't have the depth I'm looking for.
+
+- ***Writing***: I was previously an A+ English student throughout college and high school.
