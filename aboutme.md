@@ -15,10 +15,10 @@ My goal is to become a clever JavaScript and Python developer. And hopefully by 
 
 ## Hobbies
 
-- ***Gaming***: Gaming with my friends has been an integral part of my social life. And a part of my interest in programming has stemmed from my experiences with soft mods of classic video games like Doom and Quake.
+- ***Gaming:*** Gaming with my friends has been an integral part of my social life. And a part of my interest in programming has stemmed from my experiences with soft mods of classic video games like Doom and Quake.
 
-- ***Movies***: I enjoy an incredibly wide range of films. From classic seventies kung fu, to the silent comedies of the 1920s. Before I decided to become a developer, I had a passion for filmmaking.
+- ***Movies:*** I enjoy an incredibly wide range of films. From classic seventies kung fu, to the silent comedies of the 1920s. Before I decided to become a developer, I had a passion for filmmaking.
 
-- ***Beer***: I'm a bit of a connoisseur when it comes to local craft brews. Particularly lagers, but I am pretty much open to try anything once. Domestic brews usually don't have the depth I'm looking for.
+- ***Beer:*** I'm a bit of a connoisseur when it comes to local craft brews. Particularly lagers, but I am pretty much open to try anything once. Domestic brews usually don't have the depth I'm looking for.
 
-- ***Writing***: I was previously an A+ English student throughout college and high school.
+- ***Writing:*** I was previously an A+ English student throughout college and high school. The English language is something I have a bit of a grasp of. I've written plenty of short stories, blog posts, & screenplays. And I plan on writing a fantasy novel series, as well as a television pilot in the near future.
