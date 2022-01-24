@@ -30,8 +30,8 @@ JS can do basic mafs.
 
 IE
 
-> 3+4
-> 7
+                `3+4
+                7`
 
 I am already familiar with Python and how you can interact with the console.
 
@@ -39,11 +39,11 @@ This is virtually similar in nature. If not exactly the same.
 
 ## Strings
 
-> "Hugh Mungus"
+                `"Hugh Mungus"`
 
 Using the quotations in JS, you get what is known as a **string**
 
->"Hugh" + " Mungus"
+                `"Hugh" + " Mungus"`
 
 This of course combines the two together. Leaving a space before or after one of them acts as proper grammar.
 
@@ -51,43 +51,44 @@ To us a (') within s string, it will deliver an error.
 
 Instead, do this:
 
-> "This isn\'t very nice"
+                `"This isn\'t very nice"`
 
 This will return the proper sentence.
 
-> 10 + "34"
-> 1034
+                `10 + "34"
+                1034`
 
 ^^ This also seems similar to Python. Though I do not remember.
 
 However:
 
-> 10 - "3"
-> 7
+                `10 - "3"
+                7`
 
 This is because you can't exactly subtract strings from one another.
 
-> "hello" - "bye"
-> NaN = Not a Number
+                `"hello" - "bye"
+                NaN = Not a Number`
 
 ## Booleans
 
-> A statement that is either true or false
-> 3 > 2
-> true
->
-> 5 > 10
-> false
->
-> 3 == 3 will bring a sytnax error
-> **Correction** = 3 === 3
->
->
-> !== means **does not equal**
+A statement that is either true or false:
+
+                `3 > 2
+                true`
+
+                `5 > 10
+                false`
+
+                `3 == 3 will bring a sytnax error
+                **Correction** = 3 === 3`
+
+
+                `!== means **does not equal**`
 
 ## Variables
 
-> var george = "These pretzels are making me thirsty" + "!";
+                `var george = "These pretzels are making me thirsty" + "!";`
 
 Rules
 
@@ -98,14 +99,14 @@ Rules
 - Can also start with a '$' and an '_'
 - "CamelCase" === variableName
 
-> prompt()
+                ` prompt()`
 
-Recieves user input to the console. 
+Recieves user input to the console.
 
-> var first = prompt ("enter first number");
-> var second = prompt("enter second number");
-> var sum =  Number (first) + Number(second);
-> alert (sum);
+                `var first = prompt ("enter first number");
+                var second = prompt("enter second number");
+                var sum =  Number (first) + Number(second);
+                alert (sum);`
 
 ***var*** sets the variable to a name. Can be a string or number. Or a boolean!
 
@@ -115,7 +116,7 @@ Using variables in an algorithm to solve a problem. ***Perhaps the essence of pr
 
 To add to the final code, you could then go:
 
-> alert("The sum is: " + sum);
+                 `alert("The sum is: " + sum);`
 
 This final line would then print an alert prompt through the browser to the user.
 
@@ -129,17 +130,17 @@ Used when nothing is assigned to a variable.
 
 ### If statements
 
-> if (name === 'Billy') {
-> alert("Hi Billy!')
-> }
+                `if (name === 'Billy') {
+                    alert("Hi Billy!')
+                    }`
 
 ### Else
 
-> if (name === "Billy"){
->    alert("hi Billy");
->} else {
->    alert("hmmm I don't know you...");
-> }
+                `if (name === "Billy"){
+                    alert("hi Billy");
+                    } else {
+                    alert("hmmm I don't know you...");
+                    }`
 
 ### Else If
 
