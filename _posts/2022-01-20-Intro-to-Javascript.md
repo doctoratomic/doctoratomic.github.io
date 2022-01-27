@@ -155,3 +155,31 @@ Used when nothing is assigned to a variable.
 These kind of conditionals allow you to add all kinds of specific circumstances depending on input!
 
 At least, I like to hope it's that simple...
+
+## Logical Operators
+
+                `if (name === "Billy || name === "Ann") {
+                    alert("Hi Billy or Ann");
+                }`
+
+This allows you to use the "||" brackets to essentially set multiple variables in an either or kind of situation. Thus setting multiple variables in one.
+
+IE. I can use one ***if statement*** to add multiple variables to it.
+
+You can use **&&** to essentially combine two different variables in an if statement.
+
+                `firstName = "Billy"
+                lastName = "Bob"
+                if (firstName === "Billy && lastName === "Bob") {
+                    alert("Watch out we got a Redneck over here!")
+                }`
+
+This allows you to set specific parameters for certain **if statements**.
+
+Meanwhile an (**!**) at the beginning will reverse a boolean.
+
+Meaning, if you type:
+                `if(!(firstName === "Billy)) {
+                alert("Good to know you're not a redneck lol")
+                }`
+The alert would only show up if the variable was NOT set to "Billy". Some would say that this function acts like a ***light switch***, and turns the variable off and on again.
