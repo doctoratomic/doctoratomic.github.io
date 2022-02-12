@@ -51,4 +51,3 @@ You can also save arrays within arrays!
                 Using list.concat will only add to the list temporarily. When you try to sort this data, it will only print the defined list.
                 What you must do instead, is make a new variable that makes that concat merge with the others. 
                 */`
-
