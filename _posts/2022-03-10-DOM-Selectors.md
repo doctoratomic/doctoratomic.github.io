@@ -84,5 +84,3 @@ However, looks like [less and less browsers](https://caniuse.com/?search=classLi
 Adding `.children` after `.parentElement` will then print all of the elements to the HTML element that stem from that single element selected. In the case of the `body` or the `ul` it would be the contents of the body.
 
 `It's important to CACHE selectors in variables`
-
-
