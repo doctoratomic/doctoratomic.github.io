@@ -3,7 +3,7 @@ layout: post
 title: GitHub is Weird
 subtitle: Still pretty new to how it works
 gh-badge: [star, fork, follow]
-tags: [github coding learning]
+tags: [github, coding, learning]
 comments: true
 ---
 

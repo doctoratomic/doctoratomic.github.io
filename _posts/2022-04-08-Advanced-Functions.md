@@ -3,7 +3,7 @@ layout: post
 title: Advanced Functions
 subtitle: JavaScript
 gh-badge: [star, fork, follow]
-tags: [javascrip coding learning advanced]
+tags: [javascript, coding, learning, advanced]
 comments: true
 ---
 

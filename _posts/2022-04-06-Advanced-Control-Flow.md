@@ -3,7 +3,7 @@ layout: post
 title: Advanced Control Flow
 subtitle: JavaScript
 gh-badge: [star, fork, follow]
-tags: [javascript coding learning advanced]
+tags: [javascript, coding, learning, advanced]
 comments: true
 ---
 ### The Ternary Operator

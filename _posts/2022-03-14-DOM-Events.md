@@ -3,7 +3,7 @@ layout: post
 title: DOM Events
 subtitle: JavaScript
 gh-badge: [star, fork, follow]
-tags: [javascript coding learning]
+tags: [javascript, coding,learning]
 comments: true
 ---
 ## DOM Events

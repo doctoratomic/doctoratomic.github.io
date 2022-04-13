@@ -3,7 +3,7 @@ layout: post
 title: Intro to Javascript
 subtitle: Basic syntax and understanding
 gh-badge: [star, fork, follow]
-tags: [javascript coding learning]
+tags: [javascript, coding, learning]
 comments: true
 ---
 
