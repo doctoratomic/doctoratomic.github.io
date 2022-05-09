@@ -98,3 +98,20 @@ This technique isn't used as often. But it can come in handy in some cases.
 We use static methods when we don't care about the state of the class. Or the attributes.
 
 We use class methods when we do care, and we want to change the methods retroactively.
+
+### Review
+
+*Object oriented programming is a paradigm. Or a way of thinking in terms of structuring code.
+
+*Went from writing procedural functions to things like OOP.
+
+*We use classes to incorporate OOP paradigms.
+
+*Create classes in Python with camelcase naming system. Tells other programmers that this is a class that gets instantiated.
+
+*`__init__` is run on every instantiation to customize our objects.
+
+*Using methods helps specify parameters and details important to the class. And that every method has access to the class.
+
+*There are `class methods` and `static methods`, these can actually be called without instantiation.
+
