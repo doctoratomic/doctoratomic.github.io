@@ -114,4 +114,3 @@ We use class methods when we do care, and we want to change the methods retroact
 *Using methods helps specify parameters and details important to the class. And that every method has access to the class.
 
 *There are `class methods` and `static methods`, these can actually be called without instantiation.
-
