@@ -69,4 +69,45 @@ This allows you to essentially print functions within other functions. In this c
 
 ### Decorators Part 3 - The Decorating
 
-Coming Soon!
+                `def my_decorator(func):
+                    def wrap_func(*args, **kwargs):
+                        print('***********')
+                        func(*args, **kwargs)
+                        print('***********')
+                    return wrap_func
+                    
+                @my_decorator
+                def hello(greeting, emoji):
+                    print(greeting,emoji)
+                    
+                a = my_decorator(hello)
+                a('hiiiiiiii', ':)')`
+
+Within these functions is a `Decorator Pattern`. By using `*args` & `**kwargs` we can put in as many arguments as we want.
+
+In a way its a pattern that allows you to structure code in a specific manner. Or as the example returns:
+
+                `************
+                hiiiiiiii :)
+                ************`
+
+### Why Do We Need Decorators?
+
+Decorators seem to be useful in the utility sense. As we create a means to measure performance of our code.
+
+                `from time import time
+                def performance(fn):
+                    def wrapper(*args, **kwargs):
+                        t1 = time()
+                        result = fn(*args, **kwargs)
+                        t2 = time()
+                        print(f'It took {t2 - t1}ms'
+                        return result
+                    return wrapper
+                
+                @performance
+                def long_time():
+                    for i in range(1000000):
+                        i*5
+                        
+                long_time()`
