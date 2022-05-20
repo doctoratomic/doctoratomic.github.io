@@ -67,3 +67,14 @@ Same idea without `f-string`
                         print('Finally done!')
                     print('Can you hear me?')`
 
+`raise` can be something you can add to the actual errors that come with the specific error you are awaiting.
+
+                `while True:
+                    try:
+                        age = int(input('whats your age? '))
+                        10/age
+                        raise ValueError('Hey, cut that out!')`
+
+This will then return the actual error with your own custom message printed with it.
+
+You can run `Exception` and a message with the error will print out normally as well.
